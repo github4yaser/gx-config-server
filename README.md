@@ -1,2 +1,2 @@
-# gx-config-server
-gx-config-server
+# test-config-server
+test-config-server
